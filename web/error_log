@@ -1,0 +1,1 @@
+[08-Jan-2023 15:11:52 UTC] PHP Warning:  Undefined array key 0 in /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/plesk/wp-cli-toolkit-command/src/Instance_Command.php on line 142
